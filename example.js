@@ -1,9 +1,9 @@
-var lib = require('./app.js');
+var fetchNews = require('./app.js');
 
 
 (async function () {
 
-    var lastNews = await lib('fars', { includeNewsText: true });
+    var lastNews = await fetchNews('fars', { includeNewsText: true });
     console.log(lastNews);
 
 })();

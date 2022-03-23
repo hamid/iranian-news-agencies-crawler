@@ -22,7 +22,6 @@ _loadNewsAgencyCrawler  = async function(){
     agencyCrawler['bbc']            =  require('./newsAgencies/news-10-bbc');
     agencyCrawler['mehr']           =  require('./newsAgencies/news-14-mehr');
     agencyCrawler['ilna']           =  require('./newsAgencies/news-15-ilna');
-    agencyCrawler['ilna']           =  require('./newsAgencies/news-15-ilna');
     agencyCrawler['moj']            =  require('./newsAgencies/news-16-moj');
     agencyCrawler['tabnak']         =  require('./newsAgencies/news-17-tabnak');
     agencyCrawler['khabaronline']   =  require('./newsAgencies/news-18-khabaronline');
@@ -30,7 +29,7 @@ _loadNewsAgencyCrawler  = async function(){
     agencyCrawler['ana']            =  require('./newsAgencies/news-20-ana');
     agencyCrawler['alef']           =  require('./newsAgencies/news-21-alef');
     agencyCrawler['irib']           =  require('./newsAgencies/news-22-irib');
-    agencyCrawler['sporting']       =  require('./newsAgencies/news-23-sputnik');
+    agencyCrawler['sputnik']       =  require('./newsAgencies/news-23-sputnik');
     agencyCrawler['independent']    = require('./newsAgencies/news-24-independent');
     agencyCrawler['voa']            = require('./newsAgencies/news-25-voa-fa');
 

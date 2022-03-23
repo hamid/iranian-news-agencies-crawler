@@ -5,8 +5,8 @@
     "striptags": "^3.2.0"
   },
   "name": "iranian-news-agencies-crawler",
-  "description": "a [Sails v1](https://sailsjs.com) application",
-  "version": "1.0.0",
+  "description": "A crawler to fetch last news from Iranian(Persian) news agencies.",
+  "version": "1.0.1",
   "main": "app.js",
   "devDependencies": {},
   "scripts": {

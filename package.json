@@ -6,7 +6,7 @@
   },
   "name": "iranian-news-agencies-crawler",
   "description": "A crawler to fetch last news from Iranian(Persian) news agencies.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "app.js",
   "devDependencies": {},
   "scripts": {

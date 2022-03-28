@@ -35,7 +35,7 @@ npm i iranian-news-agencies-crawler
 
 ## نحوه استفاده 
 ```javascript
-import fetchNews from 'iranian-news-agencies-crawler';
+const fetchNews = require('iranian-news-agencies-crawler');
 ...
 // دریافت عنواوین خبر بدون متن اصلی 
 // تاخیر زیر ۱ ثانیه

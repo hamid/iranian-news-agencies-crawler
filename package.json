@@ -6,9 +6,13 @@
   },
   "name": "iranian-news-agencies-crawler",
   "description": "A crawler to fetch last news from Iranian(Persian) news agencies.",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "app.js",
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamid/iranian-news-agencies-crawler"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +23,9 @@
     "crawler"
   ],
   "author": "hamid reza salimian",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamid/iranian-news-agencies-crawler/issues"
+  },
+  "homepage": "https://github.com/hamid/iranian-news-agencies-crawler#readme"
 }
